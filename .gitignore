@@ -1,6 +1,6 @@
+main
+*.o
 bin/
 obj/
-*.o
-*.layout
 *.cbp
 
